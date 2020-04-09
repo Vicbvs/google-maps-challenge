@@ -1,6 +1,6 @@
 # Plan Of Action
 
--   Create Wireframe
+<!-- -   Create Wireframe
 
 -   Set Up the base HTML structure
 
@@ -12,4 +12,4 @@
 
 -   Add Store List Container
 
--   Add individual store container
+-   Add individual store container -->
